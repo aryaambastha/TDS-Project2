@@ -2,3 +2,4 @@
 __pycache__
 .imp_shell
 .env
+.venv
